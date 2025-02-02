@@ -1,7 +1,6 @@
 ### Oii! Eu sou a kaielly Sousa 👋🏽
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaiellysousaa)
 
-![Kaielly Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiellySousa&show_icons=true&theme=radical)
 
 ##Tecnologias mais usadas!
 <div style="display: inline_block"><br/>
